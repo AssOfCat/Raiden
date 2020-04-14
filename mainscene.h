@@ -12,6 +12,7 @@
 #include <enemyplane.h>
 #include <bomb.h>
 
+
 class MainScene : public QWidget
 {
     Q_OBJECT

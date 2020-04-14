@@ -30,7 +30,8 @@ SOURCES += \
     heroplane.cpp \
     bullet.cpp \
     enemyplane.cpp \
-    bomb.cpp
+    bomb.cpp \
+    welcome.cpp
 
 HEADERS += \
         mainscene.h \
@@ -39,5 +40,9 @@ HEADERS += \
     heroplane.h \
     bullet.h \
     enemyplane.h \
-    bomb.h
+    bomb.h \
+    welcome.h
+
+FORMS += \
+    welcome.ui
 
